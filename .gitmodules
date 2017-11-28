@@ -15,4 +15,4 @@
 	url = ../riscv-newlib.git
 [submodule "riscv-qemu"]
 	path = riscv-qemu
-	url = https://github.com/hstogether/riscv-qemu.git
+	url = git://github.com/hstogether/riscv-qemu.git
